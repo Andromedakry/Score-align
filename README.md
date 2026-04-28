@@ -1,4 +1,4 @@
-## introduction
+## Introduction
 OpenCV-based skew correction tool for sheet music images.
 
 ## Requirements
@@ -15,4 +15,4 @@ Batch Processing
 python deskew.py --batch "*.jpg" ./output_folder/
 ```
 ## Notes
-Supports: .jpg, .png, .bmp, .tiff
+Supports: .jpg .png .bmp .tiff
